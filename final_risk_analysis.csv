@@ -1,0 +1,6 @@
+Coin,Overall Volatility (%),Avg Rolling Volatility (%),Risk Score,Risk Level
+Bitcoin,0.61,0.47,0.55,Stable
+Cardano,0.87,0.75,0.82,Extreme
+Dogecoin,0.84,0.69,0.78,Alert
+Ethereum,0.84,0.66,0.77,Stable
+Solana,0.85,0.68,0.79,Extreme
