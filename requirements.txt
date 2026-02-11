@@ -1,6 +1,7 @@
 streamlit
 pandas
 numpy
+matplotlib
 plotly>=6.1.1
 kaleido==0.2.1
 reportlab
